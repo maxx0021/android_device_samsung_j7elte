@@ -15,9 +15,9 @@
 LOCAL_PATH := device/samsung/j7elte
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_PATH)/descendant_j7elte.mk
+    $(LOCAL_PATH)/nad_j7elte.mk
 
 COMMON_LUNCH_CHOICES := \
-    descendant_j7elte-user \
-    descendant_j7elte-userdebug \
-    descendant_j7elte-eng
+    nad_j7elte-user \
+    nad_j7elte-userdebug \
+    nad_j7elte-eng
