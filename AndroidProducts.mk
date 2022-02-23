@@ -20,4 +20,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     statix_j7elte-user \
     statix_j7elte-userdebug \
-    stati_j7elte-eng
+    statix_j7elte-eng
