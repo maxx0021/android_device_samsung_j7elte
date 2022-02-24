@@ -15,9 +15,9 @@
 LOCAL_PATH := device/samsung/j7elte
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_PATH)/statix_j7elte.mk
+    $(LOCAL_PATH)/lineage_j7elte.mk
 
 COMMON_LUNCH_CHOICES := \
-    statix_j7elte-user \
-    statix_j7elte-userdebug \
-    statix_j7elte-eng
+    lineage_j7elte-user \
+    lineage_j7elte-userdebug \
+    lineage_j7elte-eng
